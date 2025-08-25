@@ -367,7 +367,7 @@
   },
   "LocaleSwitcher": {
     "label": "言語を変更",
-    "locale": "{locale, select, zh {中文} en {English} jp {日本語} other {Unknown}}"
+    "locale": "{locale, select, zh {中文} en {English} jp {日本語} ru {ロシア語} other {Unknown}}"
   },
   "ModeToggle": {
     "light": "ライト",
